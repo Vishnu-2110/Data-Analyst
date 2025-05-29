@@ -50,12 +50,12 @@ import Privacy from "../../components/Privacy";
 
 export const headerIntroData = {
   title: {
-    de: "Hi, ich ",
+    de: "Hi ",
     en: "Hello, this is Vishnu Vardhan",
   },
   subtitle: "Data Analyst | Insight Strategist | Decision-Maker's Secret agent",
   description: {
-    de: "Ich bin , ein Fullstack-Entwickler mit dem Ziel, meine Karriere voranzutreiben und an inspirierenden Projekten teilzunehmen. Hier präsentiere ich meine Arbeiten und meine Leidenschaft für die Webentwicklung. Lassen Sie uns gemeinsam digitale Lösungen gestalten und die Zukunft formen!",
+    de: "Ich formen!",
     en: "Turning data into direction. Crafting insights that drive impact",
   },
   buttons: [
@@ -85,7 +85,7 @@ export const projectsData = [
   {
     title: "Cryptocurrency Analysis ",
     description:
-      "Eine Rezepte App, die wir als Team mit React und der MealDB API gebaut haben. Ich war der Front-End Entwickler und habe Features wie Voice Search oder Print to PDF programmiert. Das Design wurde mit Figma erstellt. Die Website ist responsive und mobile-optimiert.",
+      ".",
     description_EN:
       " Conducted end-to-end analysis of cryptocurrency market data using Python, Excel, and Power BI. Scraped real-time data from CoinMarketCap, performed correlation and growth analysis, and used ARIMA modeling for price prediction. Identified the top 10 cryptocurrencies based on price and market capitalization, and presented insights through interactive dashboards to support data-driven investment strategies.",   
        technologies: [
@@ -115,7 +115,7 @@ export const projectsData = [
   {
     title: " Exploring sales: insights and analysis ",
     description:
-      "Eine Yoga und Meditations App, die wir als Team mit React, MongoDB, Express und Node.js gebaut haben. Meine Aufgabe als Gitmaster und Backend Entwickler bestand darin, das Backend mit Anbindung anhand einer Restful API zu programmieren und die Datenbank in MongoDB zu modellieren.",
+      ".",
     description_EN:
       "Investigated sales trends of ‘Joyland amusements and adventures pvt ltd’ by examining a dataset with over 30,000 entries, leveraging Python for statistical modeling and Power BI for visualization, which resulted in actionable insights that informed strategic decisions and drove a 15% increase in sales efficiency.",
     technologies: [
@@ -127,7 +127,7 @@ export const projectsData = [
     image: project2,
     // deploymenturl: "https://silentmoon-grpw.onrender.com/",
     // githuburl:
-    //   "https://github.com/AlpayC/Fullstack_Abschlussprojekt_SilentMoon",
+    //  
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
@@ -140,7 +140,7 @@ export const projectsData = [
   {
     title: " Voice Controlled AI Virtual Friend",
     description:
-      "Eine Möbel-Organizer App, die wir als Duo-Team mit React, MongoDB, Express und Node.js programmiert haben. Als Gitmaster habe ich die Verknüpfung des Frontends mit dem Backend und die Datenbankmodellierung übernommen. Die App ist responsive und mobile-optimiert.",
+      ".",
     description_EN:
       " Designed and developed an AI-powered virtual friend using Machine Learning and Artificial Intelligence technologies. Integrated voice recognition and natural language processing (NLP) to enable seamless and interactive conversations.", 
          technologies: [
@@ -156,7 +156,7 @@ export const projectsData = [
     ],
     image: AI,
     // deploymenturl: "https://mern-haushaltsbuch.onrender.com /",
-    // githuburl: "https://github.com/AlpayC/Furniture_MERN",
+    
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
@@ -170,7 +170,7 @@ export const projectsData = [
 
 export const liveTickerData = {
   content: {
-    de: "Weitere Projekte auf Github",
+    de: "..",
     en: " DATA ANALYST HERE",
   },
 } as const;
@@ -271,7 +271,7 @@ export const FooterLinks = [
 
 export const sideBarRightMail = {
   link: "mailto:vishnuvardhanvv.2110@gmail.com",
-  text: "myemail@com",
+  text: "myemail",
 } as const;
 
 export const sideBarLeftSocials = [
